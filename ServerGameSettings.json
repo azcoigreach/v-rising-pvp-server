@@ -8,7 +8,7 @@
     "DeathContainerPermission": "Anyone",
     "RelicSpawnType": "Unique",
     "CanLootEnemyContainers": true,
-    "BloodBoundEquipment": true,
+    "BloodBoundEquipment": false,
     "TeleportBoundItems": true,
     "AllowGlobalChat": true,
     "AllWaypointsUnlocked": true,
